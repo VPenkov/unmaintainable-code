@@ -318,7 +318,7 @@ These defs should be scattered through different include-files. They are especia
 
 #### Long Similar Variable Names
 
-Use very long variable names or class names that differ from each other by only one character, or only in upper/lower case. An ideal variable name pair is `swimmer` and `swimner`. Exploit the failure of most fonts to clearly discriminate between `ilI1|` or `oO08` with identifier pairs like `parselnt` and `parseInt` or `D0Calc` and `DOCalc`. `l` is an exceptionally fine choice for a variable name since it will, to the casual glance, masquerade as the constant `1`. In many fonts rn looks like an m. So how about a variable `swirnrner`. Create variable names that differ from each other only in case e.g. `HashTable` and `Hashtable`.
+Use very long variable names or class names that differ from each other by only one character, or only in upper/lower case. An ideal variable name pair is `swimmer` and `swimner`. Exploit the failure of most fonts to clearly discriminate between `ilI1|` or `oO08` with identifier pairs like `parselnt` and `parseInt` or `D0Calc` and `DOCalc`. `l` is an exceptionally fine choice for a variable name since it will, to the casual glance, masquerade as the constant `1`. In many fonts `rn` looks like an `m`. So how about a variable `swirnrner`. Create variable names that differ from each other only in case e.g. `HashTable` and `Hashtable`.
 
 #### Similar-Sounding Similar-Looking Variable Names
 
